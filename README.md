@@ -1,2 +1,2 @@
 # TreeQueue
-A Message Queue Based on Tree Structure
+A message queue based on tree structure
